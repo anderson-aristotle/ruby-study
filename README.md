@@ -4,25 +4,25 @@
 
 ## Prerequisites
 
--   None.
+- None.
 
 ## Objectives
 
--   Define functions, classes, and methods.
--   Create instances of classes.
--   Manipulate strings using string interpolation.
--   Convert data types from one to another
--   Iterate through collections.
--   Manipulate hashes using symbols.
--   Pass blocks into methods.
+- Define functions, classes, and methods.
+- Create instances of classes.
+- Manipulate strings using string interpolation.
+- Convert data types from one to another
+- Iterate through collections.
+- Manipulate hashes using symbols.
+- Pass blocks into methods.
 
 ## Instructions
 
-1.  Fork and clone this repository.
-1.  Change into the new directory.
-1.  Create and checkout a new branch, named `response`.
-1.  Follow the directions given in [`study.md`](study.md).
-1.  When finished, push to your fork and submit a pull request.
+1. Fork and clone this repository.
+1. Change into the new directory.
+1. Create and checkout a new branch, named `response`.
+1. Follow the directions given in [`study.md`](study.md).
+1. When finished, push to your fork and submit a pull request.
 
 You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
 related to [forking,
@@ -31,6 +31,6 @@ requests](https://github.com/ga-wdi-boston/meta/wiki/PullRequest).
 
 ## [License](LICENSE)
 
-1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
-1.  All software code is licensed under GNU GPLv3. For commercial use or
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+1. All software code is licensed under GNU GPLv3. For commercial use or
     alternative licensing, please contact legal@ga.co.
