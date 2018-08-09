@@ -10,13 +10,12 @@ material. Instead, digest what you've read and repeat it in your own voice.
 
 ## Required Readings
 
-- [Ruby Tutorial - Try Ruby](http://tryruby.org/)
+- [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com/)
 - [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 - [% Notation](https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Literals#The_.25_Notation)
 
 ## Additional Resources: Optional
 
-- [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com/)
 - [Why's (Poignant) Guide to Ruby](http://poignant.guide/)
 - [Learn Ruby - With the Edge Case Ruby Koans](http://rubykoans.com/)
 
