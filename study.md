@@ -10,7 +10,8 @@ material. Instead, digest what you've read and repeat it in your own voice.
 
 ## Required Readings
 
-- [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com/)
+- [freeCodeCamp - Learning Ruby: From Zero to Hero](https://medium.freecodecamp.org/learning-ruby-from-zero-to-hero-90ad4eecc82d)
+  - (Stop before "Classes & Objects" section)
 - [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 - [% Notation](https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Literals#The_.25_Notation)
 
