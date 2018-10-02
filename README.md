@@ -19,18 +19,19 @@
 ## Instructions
 
 1. Fork and clone this repository.
-1. Change into the new directory.
-1. Create and checkout a new branch, named `response`.
-1. Follow the directions given in [`study.md`](study.md).
-1. When finished, push to your fork and submit a pull request.
+2. Change into the new directory.
+3. Create and checkout a new branch, named `response`.
+4. Follow the directions given in [`study.md`](study.md).
+5. When finished, push to your fork and submit a pull request.
 
 You may wish to refer to [FAQs](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/)
 related to [forking,
-cloning](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone), and [pull
+cloning](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone), and
+[pull
 requests](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/PullRequest).
 
 ## [License](LICENSE)
 
 1. All content is licensed under a CC­BY­NC­SA 4.0 license.
-1. All software code is licensed under GNU GPLv3. For commercial use or
+2. All software code is licensed under GNU GPLv3. For commercial use or
     alternative licensing, please contact legal@ga.co.
