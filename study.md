@@ -38,7 +38,7 @@ reference to the original).
 # your answer here
 ```
 
-## Class#method!
+## Class#method! Significance
 
 What does an exclamation point after a method usually signify?  e.g.,
 `my_string.capitalize!`
